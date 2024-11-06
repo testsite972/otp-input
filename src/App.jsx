@@ -33,7 +33,8 @@ const handleKeyDown=(e,index)=>{
   }
 }
   return(
-    <div>
+    <div >
+      <div className="otpbody">
       <h1>Type your OTP</h1>
       <div className='inputsotp'>
        
@@ -55,6 +56,7 @@ const handleKeyDown=(e,index)=>{
         })
        }
         
+      </div>
       </div>
     </div>
   )
