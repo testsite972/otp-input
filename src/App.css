@@ -1,0 +1,22 @@
+.inputsotp{
+    display:flex;
+    flex-direction: row;
+    gap:20px;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
+
+.inputsotp input{
+    height:30px;
+    width:20px;
+    font-size:20px;
+    display:flex;
+    margin:4px;
+    padding:4px;
+    /* flex-direction: row;
+    gap:20px; */
+    /* align-items: center; */
+    /* justify-content: center; */
+    align-content: center;
+}
